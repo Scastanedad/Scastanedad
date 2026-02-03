@@ -1,6 +1,6 @@
 
     
-## Hey, me alegro que estes por aca !!
+## Hey, me alegro que estes por aca 😃!
 
 ### Hola! Soy Samuel Castañeda, estudiante de Ingenieria de Sistemas y Ciencia de Datos en la Universidad del Norte.
 
