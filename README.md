@@ -56,7 +56,7 @@
 
 ### 🧠 Naikan
 
-Sistema desarrollado como proyecto principal enfocado en **desarrollo de software y arquitectura de aplicaciones**, aplicando buenas prácticas de programación y organización de código.
+Juego roguelike en python utilizando pygame, enfocado en **desarrollo de logica computacional y arquitectura de aplicaciones**, aplicando buenas prácticas de programación y organización de código.
 
 🔗 https://github.com/Scastanedad/Naikan
 
