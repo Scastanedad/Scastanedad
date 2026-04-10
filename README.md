@@ -63,10 +63,9 @@ Sistema desarrollado como proyecto principal enfocado en **desarrollo de softwar
 ---
 
 ## 📊 GitHub Stats
+![Samuel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Scastanedad&show_icons=true&theme=tokyonight)
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scastanedad&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scastanedad&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Scastanedad&layout=compact&theme=tokyonight)
 
 ---
 
