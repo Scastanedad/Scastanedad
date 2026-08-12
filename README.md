@@ -62,19 +62,6 @@ Juego roguelike en python utilizando pygame, enfocado en **desarrollo de logica 
 
 ---
 
-## 📊 GitHub Stats
-![Samuel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Scastanedad&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Scastanedad&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Actividad
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Scastanedad&theme=tokyonight)
-
----
-
 ## 🎯 Objetivo
 
 Construir proyectos sólidos en **Backend, Machine Learning y Data Science**, desarrollando soluciones escalables y aplicando ingeniería de software en proyectos reales.
